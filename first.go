@@ -5,3 +5,7 @@ func main() {
 fmt.Println("Hello World! This is my first Go program\n")
 }
 
+"""
+Output:
+Hello World! This is my first Go program
+"""
